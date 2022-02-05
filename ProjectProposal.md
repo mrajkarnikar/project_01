@@ -15,7 +15,7 @@ Analyze different trends in Olympic throughtout the history
     - government type
     - age of sports
 - Country participation
-- Olympic spend
+- Olympic spend (limited to a country ?? )
 - Height and Weight of atheletes
 - Popularity Analysis
 - Number of atheletics
@@ -27,24 +27,30 @@ Analyze different trends in Olympic throughtout the history
 
 
 # Research Questions to Answer
-
 How things have changed over time for different factor mentioned above
 
 # Datasets to be used
 
-kaggle
+kaggle and many more 
 
 # Rough Breakdown of tasks
 
 2 Trends per person
 
 Per Trend
-    - find api to use
-    - use api to import data to df
-    - clean and format
-    - perform analysis
-    - plot
-    - build dashboard
-    - use simulation if applicable
-    - write report that includes trend conslusion/result
-    - write presentation
+- find api to use
+- use api to import data to df
+- clean and format
+- perform analysis
+- plot
+- build dashboard
+- use simulation if applicable
+- write report that includes trend conslusion/result
+- write presentation
+
+# Timelines/Due Date
+
+- Research - 25% -  4/7
+- Implementation - 55%  - 4/11
+- Writeup / Presentation - 20% - 4/13
+- Dry Run of presentation - 10% - 4/15
