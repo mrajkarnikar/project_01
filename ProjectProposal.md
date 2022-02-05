@@ -10,8 +10,8 @@ Olympic Trend Analysis
 
 # Project Description
 
-Analyze different trends in Olympic throughtout the history
-- Medal Count by country / time/ sport/ sex / 
+Analyze different trends in Olympic throughtout the history. Some ideas
+- Medal Count by country / time/ sport/ sex /   < good one >
     - government type
     - age of sports
 - Country participation
@@ -20,10 +20,10 @@ Analyze different trends in Olympic throughtout the history
 - Popularity Analysis
 - Number of atheletics
 - winner vs participation
-- Doping analysis
-- Hosting olympics /economics impact
-- Correlate size of country to win
-- Monetecarlo analysis using historocial data and project who wins in next olympics
+- Doping analysis < hard to find>
+- Hosting olympics /economics impact < hard to find>
+- Correlate size of country to win. < good one>
+- Monetecarlo analysis using historocial data and project who wins in next olympics < not required>
 
 
 # Research Questions to Answer
@@ -31,11 +31,13 @@ How things have changed over time for different factor mentioned above
 
 # Datasets to be used
 
-kaggle and many more 
+kaggle 
+- we can use this medal count, number of atheletics https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/version/2
+- and many more 
 
 # Rough Breakdown of tasks
 
-2 Trends per person
+1 Trends per person
 
 Per Trend
 - find api to use
