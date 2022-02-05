@@ -27,7 +27,9 @@ Analyze different trends in Olympic throughtout the history. Some ideas
 
 
 # Research Questions to Answer
-How things have changed over time for different factor mentioned above
+- Does country size always mean more number of medals? size of coutry to wins
+- Are there countries who are always dominant on specific sport. 
+- How is country participation changing over time 
 
 # Datasets to be used
 
