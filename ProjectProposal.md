@@ -47,14 +47,14 @@ Per Trend
 - clean and format
 - perform analysis
 - plot
-- build dashboard
+- build dashboard < team >
 - use simulation if applicable
 - write report that includes trend conslusion/result
 - write presentation
 
 # Timelines/Due Date
 
-- Research - 25% -  4/7
-- Implementation - 55%  - 4/11
-- Writeup / Presentation - 20% - 4/13
-- Dry Run of presentation - 10% - 4/15
+- Research - 25% -  2/7
+- Implementation - 55%  - 2/11
+- Writeup / Presentation - 20% - 2/13
+- Dry Run of presentation - 10% - 2/15
