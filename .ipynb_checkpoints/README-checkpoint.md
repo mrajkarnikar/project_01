@@ -57,12 +57,32 @@ From the above chart we can conclude that USA did not use to be leader when the 
 
 # Find trend of top 5 sports where USA has won the most number of gold over the years
 
+We were able to tap into kaggle data[0] again to group number of medal won in various years  filtered it only for  USA. We wanted to see what were the top 5 sports where USA has won the most number of gold over the years. 
+
+![top_5_winning_category_pie_chart](./top_5_winning_category_pie_chart.png)
+
+![top_5_winning_category_usa](./top_5_winning_category_usa.png)
+
+
+* Above diagram show that overall US has been winning most of the medals in this order
+    1. Swimming
+    2. Atheletics 
+    3. Basketball
+    
+US used to win a lot in rowing also. Lately, we can see a trend that football is another sport where US has been getting a lot of medals from.
+
+
+
 # Find the relationshiop of population, gdp and medal count. Does more population and gdp mean more medal count ? 
+
+![gdp_pop_medal_count_reln](./gdp_pop_medal_count_reln.png)
 
 # Find trend on age of Male and Female Atheletics
 
 
+![male_age_trend](./male_age_trend.png)
 
+![female_age_trend](./female_age_trend.png)
 
 
 [0] https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
