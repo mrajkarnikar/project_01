@@ -64,18 +64,21 @@ We were able to tap into kaggle data[0] again to group number of medal won in va
 ![top_5_winning_category_usa](./top_5_winning_category_usa.png)
 
 
-* Above diagram show that overall US has been winning most of the medals in this order
-    1. Swimming
-    2. Atheletics 
-    3. Basketball
+Above diagram show that overall US has been winning most of the medals in this order
+1. Swimming
+2. Atheletics 
+3. Basketball
     
 US used to win a lot in rowing also. Lately, we can see a trend that football is another sport where US has been getting a lot of medals from.
 
 
-
 # Find the relationshiop of population, gdp and medal count. Does more population and gdp mean more medal count ? 
 
+We were interested in finding if gdp and population of country have any effect on the number of medals won in olympics. In other words, we wanted to find the relationshiop of population, gdp and medal count. kaggle data[0] did not have any population or gdp information. So we can find another source for that data. We found that world bank API provided that data. But the data went as far back as 1971 only. We then took subset of data from kaggle and joined this information with world bank data and were able to plot a diagram below
+
 ![gdp_pop_medal_count_reln](./gdp_pop_medal_count_reln.png)
+
+This diagram showed us  that small countries and small population usually mean less number of medals. But not necessary all the time. You can see that few countries like india and china(in the past) could not get many medal despite having larger population.  
 
 # Find trend on age of Male and Female Atheletics
 
