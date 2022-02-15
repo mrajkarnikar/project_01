@@ -37,9 +37,9 @@ Worldbank DataBank[1] contains collections of time series data on a variety of t
 
 # How to run the project
 
-In order to run the project, we should be able to run notebook named manish.ipynb chris.ipynb and dulla.ipynb. 
+In order to run the project, we should be able to run notebook named manish.ipynb, chris.ipynb and dulla.ipynb. 
 
-We have also created a dashboard to 
+We have also created a dashboard to put all the plots in one dashboard. Dashboard can be viewed by running dashboard.ipynb notebook which in turn runs other dashboards. Dashboard displays all the plots in tabs. Users can click through the different tabs to see all the trends. 
 
 # Find trend for how highest number of  winner of medals by country have changed across the history
 
@@ -81,7 +81,7 @@ We were interested in finding if gdp and population of country have any effect o
 This diagram showed us  that small countries and small population usually mean less number of medals. But not necessary all the time. You can see that few countries like india and china(in the past) could not get many medal despite having larger population.  
 
 # Find trend on age of Male and Female Atheletics
-
+We wanted to see a trend on age for Male and Female atheletics. We used the kaggle data which had all the althelitics with their
 
 ![male_age_trend](./male_age_trend.png)
 
