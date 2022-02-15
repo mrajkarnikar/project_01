@@ -25,12 +25,12 @@ In this project, we are tryig to analyze historical data of olympics and analyze
 
 We are using 2 sources of data 
 
-## Kaggle
+### Kaggle
 Using kaggle we were able to go to historical dataset[0] on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
 
 
 
-## Worldbank
+### Worldbank
 Worldbank DataBank[1] contains collections of time series data on a variety of topics on various countries. We can create our own queries; generate tables, charts, and maps; and easily save, embed, and share them. We use Worldbank DataBank API interface of to extract information such as population and gdp of various countries throughout the history
 
 
@@ -85,5 +85,7 @@ US used to win a lot in rowing also. Lately, we can see a trend that football is
 ![female_age_trend](./female_age_trend.png)
 
 
+
 [0] https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 [1] https://databank.worldbank.org/indicator/NY.GDP.MKTP.CD/1ff4a498/Popular-Indicators
