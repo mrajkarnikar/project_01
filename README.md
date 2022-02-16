@@ -37,11 +37,11 @@ Worldbank DataBank[1] contains collections of time series data on a variety of t
 
 # How to run the project
 
-In order to run the project, we should be able to run notebook named manish.ipynb chris.ipynb and dulla.ipynb. 
+In order to run the project, we should be able to run notebook named manish.ipynb and chris.ipynb  
 
-We have also created a dashboard to 
+We also have created a dashboard to put all the slides together. That code is in dashboard.ipynb
 
-# Find trend for how highest number of  winner of medals by country have changed across the history
+# Find trend for how highest number of  medal winners by country have changed across the history
 
 kaggle[0] provides information of all the atheletics that participated in the olympics. It contains information such as their name, the country they are from, medal they won and the sport in which they won the medal in and also the year in the medal was won. Using this information we were able to find the number of medals each country won and rank the top twenty countries who won the most number of medal in each olympics. Using this information we were then able to plot the following animation to find a trend for how highest number of  winner of medals by country have changed across the history
 
@@ -72,7 +72,7 @@ Above diagram show that overall US has been winning most of the medals in this o
 US used to win a lot in rowing also. Lately, we can see a trend that football is another sport where US has been getting a lot of medals from.
 
 
-# Find the relationshiop of population, gdp and medal count. Does more population and gdp mean more medal count ? 
+# Find the relationshiop between population, gdp and medal count. Does more population and gdp mean more medal count ? 
 
 We were interested in finding if gdp and population of country have any effect on the number of medals won in olympics. In other words, we wanted to find the relationshiop of population, gdp and medal count. kaggle data[0] did not have any population or gdp information. So we can find another source for that data. We found that world bank API provided that data. But the data went as far back as 1971 only. We then took subset of data from kaggle and joined this information with world bank data and were able to plot a diagram below
 
@@ -82,6 +82,7 @@ This diagram showed us  that small countries and small population usually mean l
 
 # Find trend on age of Male and Female Atheletics
 
+As for age trend, we see very consistent pattern where male and female age is around mid 20s throughout the history.
 
 ![male_age_trend](./male_age_trend.png)
 
