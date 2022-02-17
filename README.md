@@ -13,6 +13,7 @@ In this project, we are tryig to analyze historical data of olympics and analyze
 2. Find trend of top 5 sports where USA has won the most number of gold over the years
 3. Find the relationshiop of population, gdp and medal count. Does more population and gdp mean more medal count ? 
 4. Find trend on age of Male and Female Atheletics
+5. Determine if hosting the Olympics results in improved performance by the hosting country in the games. 
 
 # Team Members
 
