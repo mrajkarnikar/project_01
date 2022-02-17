@@ -27,7 +27,7 @@ We are using 2 sources of data
 
 ### Kaggle
 Using kaggle we were able to go to historical dataset[0] on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016.
-
+We used kaggle again to get lat and long information of host cities. 
 
 
 ### Worldbank
@@ -90,6 +90,34 @@ As for age trend, we see very consistent pattern where male and female age is ar
 
 
 
-[0] https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+# Determine if hosting the Olympics results in improved performance by the hosting country in the games. 
 
+We wanted to first display the locations of each of the Modern Olympic Games as a point of reference, so we downloaded, imported and used mapplotlib to map and display an interactive map of the host cities and countries. 
+
+![Host City Map](./city_map_1.PNG)
+
+We then looked for a pair of host countries that participated in at least 3 sets of Winter Olympics prior to and post their hosting of the games. We settled on France in 1992 and Norway in 1994.
+
+## France 1992, Alberville
+![Host City Map](./france.PNG)
+## Norway 1994, Lillehammer
+![Host City Map](./norway.PNG)
+
+In both instances, the hosting country out performed in overall medal during the games they hosted compared to the prior 3 sets of games.
+The out performance continued for both countries in at least 2 of the following 3 games.
+(note Norway)
+Based on this small sampling we feel there is a basis for a larger more in-depth study of the advantages for hosting countries of the Olympics.
+
+
+# Summary
+
+Overall we found  a lot of trends; some expected and some unexpected. Expected were things like US domination in olympics, effect of population, gdp, hosting of olympics. 
+
+Some interesting and surprising things were, how events where US has been winning are changing. Eg women soccer is now a field where US has been getting more medals from. Other trends we found are also how closely socio political situation of country affects the overrall medal count. Eg germany was top country in 1936, Russia was really good 1950s-1990s.
+and now china is picking up. Whereas, countries like italy are doing poor now. So we can conclude that there are lots of interesting trends  worth in-depth study.  
+
+
+## References:
+[0] https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 [1] https://databank.worldbank.org/indicator/NY.GDP.MKTP.CD/1ff4a498/Popular-Indicators
+[2] https://www.kaggle.com/jonscheaffer/olympic-host-cities
