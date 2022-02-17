@@ -119,5 +119,7 @@ and now china is picking up. Whereas, countries like italy are doing poor now. S
 
 ## References:
 [0] https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+
 [1] https://databank.worldbank.org/indicator/NY.GDP.MKTP.CD/1ff4a498/Popular-Indicators
+
 [2] https://www.kaggle.com/jonscheaffer/olympic-host-cities
