@@ -94,14 +94,14 @@ As for age trend, we see very consistent pattern where male and female age is ar
 
 We wanted to first display the locations of each of the Modern Olympic Games as a point of reference, so we downloaded, imported and used mapplotlib to map and display an interactive map of the host cities and countries. 
 
-![Host City Map](./city_map_1.PNG)
+![Host City Map](./city_map_1.png)
 
 We then looked for a pair of host countries that participated in at least 3 sets of Winter Olympics prior to and post their hosting of the games. We settled on France in 1992 and Norway in 1994.
 
 ## France 1992, Alberville
-![Host City Map](./france.PNG)
+![Host City Map](./france.png)
 ## Norway 1994, Lillehammer
-![Host City Map](./norway.PNG)
+![Host City Map](./norway.png)
 
 In both instances, the hosting country out performed in overall medal during the games they hosted compared to the prior 3 sets of games.
 The out performance continued for both countries in at least 2 of the following 3 games.
